@@ -1,6 +1,8 @@
-# Deploy Helper
+# Deploy Helper [DEVELOPMENT PAUSED]
 
-[![Latest GitHub Release](https://img.shields.io/github/release/upload-bot/deploy-helper.svg)](https://github.com/upload-bot/deploy-helper/releases/latest) [![Maybe Too Ambitious](https://img.shields.io/badge/too%20ambitious-maybe-orange.svg)](https://github.com/upload-bot/deploy-helper/)
+[![Latest GitHub Release](https://img.shields.io/github/release/upload-bot/deploy-helper.svg)](https://github.com/upload-bot/deploy-helper/releases/latest) [![Maybe Too Ambitious](https://img.shields.io/badge/too%20ambitious-true-red.svg)](https://github.com/upload-bot/deploy-helper/)
+
+**Note that Deploy Helper has not been looked at for a while. development has been paused in favour of [eBooker](arch-master.github.io/eBooker).**
 
 Deploy Helper will help anyone deploy their project to places like PyPi or NPM. Please help @arch-master and @uploadbot make this tool!
 
